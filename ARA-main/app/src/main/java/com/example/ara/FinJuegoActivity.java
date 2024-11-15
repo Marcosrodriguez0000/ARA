@@ -10,6 +10,7 @@ public class FinJuegoActivity extends AppCompatActivity {
     private ImageView backgroundImage;
     private TextView textView10;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
